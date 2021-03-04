@@ -1,4 +1,4 @@
-# ProsperLoan Data Exploration
+# Loan Data Exploration
 
 ## Dataset
 
